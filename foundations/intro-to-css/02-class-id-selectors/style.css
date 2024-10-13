@@ -1,0 +1,21 @@
+p {
+  background-color: pink;
+  color: black;
+  font-size: 30px;
+}
+/*First Number*/
+.number.cooler {
+  font-size: 50px;
+}
+/*First Id*/
+#first {
+  color: blue;
+  font-size: 70px;
+}
+/*Second id*/
+#second {
+  background-color: green;
+  color: black;
+  font-weight: bold;
+  font-size: 50px;
+}
